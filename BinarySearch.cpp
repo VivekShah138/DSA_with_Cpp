@@ -31,13 +31,13 @@ int main()
     int key;
     cout << "Please enter the element to be found" << endl;
     cin >> key;
-    int ansBinarySearch = binarySearch(arr,0,size-1,key);
-    if(ansBinarySearch == 0)
+    int binarySearchOutput = binarySearch(arr,0,size-1,key);
+    if(binarySearchOutput == 0)
     {
         cout << "Value not found" << endl;
     }
     else
     {
-        cout << "value is present at " << ansBinarySearch << endl;
+        cout << "value is present at " << binarySearchOutput << endl;
     }
 }
