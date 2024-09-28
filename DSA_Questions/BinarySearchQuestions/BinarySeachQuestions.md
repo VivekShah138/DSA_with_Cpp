@@ -8,3 +8,8 @@
 
 3. <b> Floor in Sorted Array </b> &nbsp;&nbsp;&nbsp;&nbsp;
 [Question Link](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+
+4. <b> Search Insert Position of K in Sorted Array </b> &nbsp;&nbsp;&nbsp;&nbsp;
+[Question Link](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+
+5. 
