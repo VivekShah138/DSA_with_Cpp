@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 int main()
 {
-    vector<int> nums = {1,1,2,1,2,2,2};
+    vector<long long >arr = {1,2,8,10,11,12,19};
 }
