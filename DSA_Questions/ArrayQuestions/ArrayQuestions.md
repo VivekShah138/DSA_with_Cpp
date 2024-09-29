@@ -6,5 +6,8 @@
 2. <b> Maximum Subarray Sum </b> &nbsp;&nbsp;&nbsp;&nbsp;
 [Question Link](https://leetcode.com/problems/maximum-subarray/description/)
 
-3.  <b> Majority Element </b> &nbsp;&nbsp;&nbsp;&nbsp;
+3. <b> Majority Element </b> &nbsp;&nbsp;&nbsp;&nbsp;
 [Question Link](https://leetcode.com/problems/majority-element/description/)
+
+4. <b> Type of Array </b> &nbsp;&nbsp;&nbsp;&nbsp;
+[Question Link](https://www.geeksforgeeks.org/problems/type-of-array4605/1)
