@@ -11,3 +11,6 @@
 
 4. <b> Type of Array </b> <br>
 [Question Link](https://www.geeksforgeeks.org/problems/type-of-array4605/1) <br>
+
+5. <b> Third Largest Element </b> <br>
+[Question Link](https://www.geeksforgeeks.org/problems/third-largest-element/1) <br>
