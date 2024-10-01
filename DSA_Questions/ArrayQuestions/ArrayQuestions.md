@@ -21,5 +21,9 @@
 7. <b> Maximum Stock Prizes </b> <br>
 [Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) <br>
 
-8. 
+8. <b> Maximum Stock Prizes </b> <br>
+[Question Link](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
+[Question Link2](https://leetcode.com/problems/container-with-most-water/description/) <br>
+
+9. 
 
