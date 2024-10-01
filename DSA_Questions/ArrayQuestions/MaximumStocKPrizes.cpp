@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #include<unordered_map>
 using namespace std;
-// Log N square complexity
+// N square Time complexity
 int maxProfit(vector<int>&prices)
 {
     int profit = 0;
@@ -15,6 +15,7 @@ int maxProfit(vector<int>&prices)
     }
     return profit;
 }
+// N Time Complexity
 int maxProfit2(vector<int>&prices)
 {
     int profit = 0;
@@ -34,5 +35,4 @@ int main()
     vector<int>arr = {3,2,6,5,0,3};
     int maxProfitSolution = maxProfit2(arr);
     cout << maxProfitSolution << endl;
-
 }

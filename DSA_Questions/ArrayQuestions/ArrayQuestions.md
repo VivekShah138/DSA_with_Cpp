@@ -14,3 +14,12 @@
 
 5. <b> Third Largest Element </b> <br>
 [Question Link](https://www.geeksforgeeks.org/problems/third-largest-element/1) <br>
+
+6. <b> Maximum Repeating Number </b> <br>
+[Question Link](https://www.geeksforgeeks.org/problems/maximum-repeating-number4858/1) <br>
+
+7. <b> Maximum Stock Prizes </b> <br>
+[Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) <br>
+
+8. 
+
