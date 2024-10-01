@@ -12,4 +12,5 @@
 4. <b> Search Insert Position of K in Sorted Array </b> <br>
 [Question Link](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
 
-5. 
+5. <b> Peak Element of Mountain Array</b> <br>
+[Question Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) <br>
