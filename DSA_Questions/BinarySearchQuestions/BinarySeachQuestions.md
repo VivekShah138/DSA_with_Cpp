@@ -14,3 +14,8 @@
 
 5. <b> Peak Element of Mountain Array</b> <br>
 [Question Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) <br>
+
+6. <b> Single Element in the Sorted Array</b> <br>
+[Question Link](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) <br>
+[Question Link2](https://www.geeksforgeeks.org/problems/element-appearing-once2552/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
+
