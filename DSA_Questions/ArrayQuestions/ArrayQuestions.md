@@ -29,4 +29,7 @@
 [Question Link](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
 [Question Link2](https://leetcode.com/problems/product-of-array-except-self/description/) <br>
 
+10. <b> Prime Substraction </b> <br>
+[Question Link](https://leetcode.com/problems/prime-subtraction-operation/description/) <br>
+
 

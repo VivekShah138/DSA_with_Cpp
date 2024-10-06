@@ -1,0 +1,2 @@
+
+    if(isSorted(nums))

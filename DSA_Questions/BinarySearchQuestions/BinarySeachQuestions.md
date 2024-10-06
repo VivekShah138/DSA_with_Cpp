@@ -19,3 +19,8 @@
 [Question Link](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) <br>
 [Question Link2](https://www.geeksforgeeks.org/problems/element-appearing-once2552/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
 
+7. <b> Book Allocation Problem </b> <br>
+[Question Link](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
+
+8. <b> Prime Substraction </b> <br>
+[Question Link](https://leetcode.com/problems/prime-subtraction-operation/description/) <br>
