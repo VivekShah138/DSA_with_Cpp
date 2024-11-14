@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int main()
 {
-    vector<int>a = {2,6};
+    vector<int>arr = {5,4,3,4,2,1};
+    return 0;
 }

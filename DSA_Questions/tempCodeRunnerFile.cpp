@@ -1,2 +1,2 @@
 
-    if(isSorted(nums))
+    // selectionSort(arr);

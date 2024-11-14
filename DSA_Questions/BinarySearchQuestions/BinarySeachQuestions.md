@@ -24,3 +24,15 @@
 
 8. <b> Prime Substraction </b> <br>
 [Question Link](https://leetcode.com/problems/prime-subtraction-operation/description/) <br>
+
+9. <b> Painter's Partition </b> <br>
+[Question Link](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
+
+10. <b> Magnetic Force Between two Balls</b><br>
+[Question Link](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) <br>
+
+11. <b> Aggressive Cows</b><br>
+[Question Link](Exactly Similar Question to above one) <br>
+
+12. <b> Minimized Maximum of Products Distributed to Any Store</b><br>
+[Question Link](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) <br>

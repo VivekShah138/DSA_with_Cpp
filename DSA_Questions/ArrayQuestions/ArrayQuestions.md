@@ -32,4 +32,16 @@
 10. <b> Prime Substraction </b> <br>
 [Question Link](https://leetcode.com/problems/prime-subtraction-operation/description/) <br>
 
+11. <b> Sort Arrays Of 0 1 2 </b> <br>
+[Question Link](https://leetcode.com/problems/sort-colors/submissions/1433777098/) <br>
+[Question Link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) <br>
 
+12. <b> NextPermutation </b> <br>
+[Question Link](https://leetcode.com/problems/next-permutation/description/)  <br>
+
+13. <b> Merge Two Sorted Arrays </b> <br>
+[Question Link](https://leetcode.com/problems/merge-sorted-array/description/)  <br>
+[Question Link](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)  <br>
+
+14. <b> 2Sum </b> <br>
+[Question Link](https://leetcode.com/problems/two-sum/description/)  <br>
