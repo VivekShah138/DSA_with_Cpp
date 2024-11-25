@@ -46,8 +46,6 @@ void nextPermutation(vector<int>& nums)
 int main()
 {
     vector<int>arr = {2,3,1};
-    // cout << findPeakElement(arr) << endl;
-    // reverseArray(arr,0,arr.size()-1);
     nextPermutation(arr);
     for(int i : arr)
     {

@@ -4,6 +4,45 @@ int main()
 {
     string s = "Hello World";
 
+    cout << "using cin to get input of string " << endl;
+    char str[100];
+
+    cout << "Enter the string " << endl;
+    cin >> str;
+
+    cout << "Output is " << str << endl;
+
+
+    cout << "x----------------------------------------------x" << endl;
+
+    cout << "using getline to get input of string " << endl;
+    char str2[100];
+
+    cout << "Enter the string " << endl;
+    cin.getline(str2,100); // Here it uses "\n" (new line) to end the input
+
+    cout << "Output is " << str2 << endl;
+
+
+    cout << "x----------------------------------------------x" << endl;
+
+    cout << "using getline to get input of string with delimiter" << endl;
+    char str3[100];
+
+    cout << "Enter the string " << endl;
+
+    // Here we use delimiter 
+    // Delimiter is the character by which we want to end our line 
+    cin.getline(str3,100,'.'); // Here it uses "." (full stop) to end the input
+
+    cout << "Output is " << str3 << endl;
+
+
+    cout << "x----------------------------------------------x" << endl;
+
+
+
+
     // It will return the index of char in the string
     // size_t pos = s.find('o');
     // cout << pos << endl;
