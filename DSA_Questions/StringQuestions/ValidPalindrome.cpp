@@ -42,5 +42,13 @@ bool isPalindrome(string s)
 int main()
 {
     string s = "A man, a plan, a canal: Panama"; // Convert to "amanaplanacanalpanama" and check if its a valid palindrome or not
+    if(isPalindrome(s))
+    {
+        cout << "Valid Palindrome " << endl;
+    }
+    else
+    {
+        cout << "Not a Palindrome " << endl;
+    }
     
 }
